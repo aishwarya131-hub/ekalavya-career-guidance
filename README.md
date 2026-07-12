@@ -14,20 +14,14 @@ A personalized career guidance system for Indian students after Class 10 and 12,
 
 ### Backend
 - **Node.js** + **Express.js** - REST API server
-- **MongoDB** + **Mongoose** - Database and ODM
-- **Joi** - Input validation
-- **Axios** - HTTP client for LLM API calls
-- **Morgan** + **Helmet** - Logging and security middleware
+- **MongoDB** - Database 
 
 ### Frontend
 - **React.js** - UI framework
-- **React Router** - Client-side routing
 - **Tailwind CSS** - Styling
-- **Axios** - HTTP client
 
 ### AI Layer
-- **OpenAI API** (or equivalent) - LLM for personalized recommendations
-- **Hybrid Engine** - Rule-based + LLM recommendations
+- **Hybrid Engine** - Rule-based + ML recommendations
 
 ## Project Structure
 
